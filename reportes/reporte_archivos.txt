@@ -1,0 +1,25 @@
+===========================================================================
+REPORTE DE INVENTARIO DE ARCHIVOS
+Directorio analizado: /mnt/data/Proyecto_Ejercicios_20261007/archivos_prueba
+Alcance: archivos directamente contenidos (sin subcarpetas)
+===========================================================================
+Archivo #1: productos.txt
+  Tamano: 52 bytes
+  Ultima modificacion: 2026-10-12 15:21:54
+  Permisos: 644
+---------------------------------------------------------------------------
+Archivo #2: clientes.txt
+  Tamano: 37 bytes
+  Ultima modificacion: 2026-10-12 15:21:54
+  Permisos: 644
+---------------------------------------------------------------------------
+Archivo #3: inventario.txt
+  Tamano: 53 bytes
+  Ultima modificacion: 2026-10-12 15:21:54
+  Permisos: 644
+---------------------------------------------------------------------------
+RESUMEN GLOBAL
+Cantidad total de archivos: 3
+Tamano total acumulado: 142 bytes
+Archivos con error de lectura: 0
+===========================================================================
